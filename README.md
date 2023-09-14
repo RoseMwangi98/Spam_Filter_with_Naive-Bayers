@@ -14,8 +14,7 @@ To classify messages as spam or non-spam:
 
 So our first task is to "teach" the computer how to classify messages. To do that, we'll use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans.
 
-The dataset was put together by Tiago A. Almeida and José María Gómez Hidalgo, and it can be downloaded from the The UCI Machine Learning Repository. The data collection process is described in more details on this page, where you can also find some of the authors' papers.
-
+The dataset was put together by Tiago A. Almeida and José María Gómez Hidalgo, and it can be downloaded from the The UCI Machine Learning Repository. 
 
 
 Note that due to the nature of spam messages, the dataset contains content that may be offensive to some users.
